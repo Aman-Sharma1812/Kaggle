@@ -1,5 +1,5 @@
 ## Kaggler
-This is kaggle file's and dataset's repo
+*This is the collection of kaggle Notebook's and Dataset's repo*
 ### Kaggle badges
 - Python Coder
 - Code uploader
